@@ -12,10 +12,9 @@ Demo trong https://namminh.com.vn
 
 Screenshot:
 Desktop
-<img src="/canhosaigonriversidecity/Hotline-KW44/blob/master/hotline%201.JPG?raw=true" alt="hotline 1.JPG">
+<img src="https://raw.githubusercontent.com/canhosaigonriversidecity/Hotline-KW44/master/hotline%201.JPG" alt="" border="0" style="max-width:100%;">
 
 
 Responsive
-<img src="/canhosaigonriversidecity/Hotline-KW44/blob/master/hotline%202.JPG?raw=true" alt="hotline 2.JPG">
-
+<img src="https://raw.githubusercontent.com/canhosaigonriversidecity/Hotline-KW44/master/hotline%202.JPG" alt="" border="0" style="max-width:100%;">
 
